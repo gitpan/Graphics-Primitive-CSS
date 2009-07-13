@@ -20,9 +20,10 @@ no_index:
     - t
 requires:
   CSS::DOM: 0.06
+  Check::ISA: 0.04
   Graphics::Color: 0.23
   Graphics::Primitive: 0.44
   Moose: 0.87
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
